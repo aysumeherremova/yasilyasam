@@ -76,7 +76,7 @@
         </p>
 <section id="section6">  
 <p class="custom-text">
-    <b> Suya qənaət:</b> <br>
+    <h3> <b> Suya qənaət:</b> <br> </h3>
     <img src="Essay-On-Save-Water.jpg"  width="400" height="250"><br>
     Suya qənaət etmək suyun ehtiyatlı və səmərəli istifadəsi deməkdir. Su ehtiyatlarının həm fərdi, həm də cəmiyyət səviyyəsində davamlı şəkildə qorunması və istifadəsi vacibdir. Suya qənaət etmək üçün bəzi praktik tövsiyələr:<br>
     <b>Kranları bağlayın:</b> Dişlərinizi fırçalayarkən və ya əllərinizi yuyarkən kranı bağlı saxlayın. Həmçinin, kranları tam açmamağa diqqət edin.<br>
