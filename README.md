@@ -63,7 +63,6 @@
                 <b> Enerji ilə çalışan cihazlar:</b> Kompüterlər və ofis avadanlıqları uzun müddət istifadə edilmədikdə enerjiyə qənaət rejimlərindən istifadə edin və lazım olmadıqda kompüterləri söndürün. Printerlərdən də istifadəyə diqqət edin. Belə ki,lazımsız çapı azaldın və enerjiyə qənaət edən printerlərdən istifadə edin.<br>
                 <b> Enerji İdarəetmə:</b>  Enerji istehlakına nəzarət etmək və enerji istifadəsini qiymətləndirmək üçün enerji idarəetmə sistemlərindən istifadə edin.Enerjiyə qənaət haqqında işçiləri maarifləndirin və enerjiyə qənaət edən vərdişləri təşviq edin.<br>
 
-            </section>
             </p>
 
             <p class="custom-text">
